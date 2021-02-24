@@ -1,0 +1,58 @@
+/*  */
+#container{
+    width:300px;
+    height: 350px;
+    margin:auto;
+    margin-top:5%;
+    font-family: 'Roboto', sans-serif;
+    border: 2px solid #f0e9e9;
+}
+
+#button {
+    width:250px;
+    background-color:rgb(11, 194, 26);
+    text-align:center;
+    padding-top:10px;
+    padding-bottom: 10px;;
+    text-size-adjust: 5px;
+    color: #ecf2f5;;
+}
+#usr{
+    margin-top: 50px;
+    margin-bottom: 10px ;
+}
+#pwd{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+
+#email{
+    height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+
+#password{
+    height: 30px;
+    text-align: center;
+    margin-right: 5px;
+}
+#btn{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#cancel{
+    width: 70px;
+    height: 35px;
+    background-color: #e93030;
+    color: #ecf2f5;
+   
+}
+
+#lb{
+    font-size: 12px;
+    margin-right: 5px;
+    
+}
